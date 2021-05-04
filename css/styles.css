@@ -23,6 +23,13 @@ html {
 
 body {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+  background-color: var(--title-name-color);
 }
 
 a {
@@ -58,15 +65,7 @@ img {
   height: auto;
 }
 
-.page {
-  font-family: 'Roboto', sans-serif;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: var(--primary-text-color);
-  background-color: var(--title-name-color);
-}
+
 
 .list {
   list-style: none;
